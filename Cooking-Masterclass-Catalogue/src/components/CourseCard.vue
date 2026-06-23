@@ -33,7 +33,7 @@ export default {
 .course-card {
   border: 1px solid #e5e7eb;
   border-radius: 8px;
-  padding: 16px;
+  padding: 20px;
   background: white;
   position: relative;
   display: flex;
